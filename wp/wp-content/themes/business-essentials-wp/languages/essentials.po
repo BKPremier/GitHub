@@ -1,0 +1,598 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Barb Atkinson <barbi.atkinson@gmaill.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#. Text in echo
+#: business-essentials-wp/404.php:21
+msgid "<p class=\"page_error\">404</p><br /"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:160
+msgid "<span class=\"comment-author\">Written by: %s</span>"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Add New Case Study Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Add New Slider Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Add New Staff Member"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:113
+msgid "All Blog Posts"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:86
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Blog-Left"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Blog-Right"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/content-audio.php:38
+#: business-essentials-wp/content-quote.php:36
+#: business-essentials-wp/single-fullwidth.php:138
+#: business-essentials-wp/single.php:133 business-essentials-wp/content.php:47
+#: business-essentials-wp/content-link.php:47
+#: business-essentials-wp/single-leftsidebar.php:140
+#: business-essentials-wp/content-gallery.php:83
+#: business-essentials-wp/content-video.php:47
+#: business-essentials-wp/single-rightsidebar.php:140
+msgid "COMMENT"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/content-audio.php:44
+#: business-essentials-wp/content-quote.php:42
+#: business-essentials-wp/single-fullwidth.php:144
+#: business-essentials-wp/single.php:139 business-essentials-wp/content.php:53
+#: business-essentials-wp/content-link.php:53
+#: business-essentials-wp/single-leftsidebar.php:146
+#: business-essentials-wp/content-gallery.php:89
+#: business-essentials-wp/content-video.php:53
+#: business-essentials-wp/single-rightsidebar.php:146
+msgid "COMMENTS"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Career Data"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Career Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Career Items"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Careers Page"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:38
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:80
+msgid "Comment Feed"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/comments.php:26
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/template-homepage.php:226
+#: business-essentials-wp/content-audio.php:54
+#: business-essentials-wp/template-careers.php:78
+#: business-essentials-wp/content-quote.php:52
+#: business-essentials-wp/content.php:63
+#: business-essentials-wp/content-link.php:63
+#: business-essentials-wp/taxonomy-department.php:53
+#: business-essentials-wp/content-gallery.php:99
+#: business-essentials-wp/content-video.php:63
+#: business-essentials-wp/search.php:50
+msgid "Continue Reading"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Department"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Download PDF File."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Edit Case Study Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Edit Slider Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Edit Staff Member"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the link you want for the social media icon 1."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the link you want for the social media icon 2."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the link you want for the social media icon 3."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the link you want for the social media icon 4."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the link you want for the social media icon 5."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the link you want for the social media icon 6."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the link you want for the social media icon 7."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the professional title of this staff member."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the title text to display for the social media icon 1."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the title text to display for the social media icon 2."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the title text to display for the social media icon 3."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the title text to display for the social media icon 4."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the title text to display for the social media icon 5."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the title text to display for the social media icon 6."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Enter the title text to display for the social media icon 7."
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:75
+msgid "Feeds"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Footer Four"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Footer One"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Footer Social Icons"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Footer Three"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Footer Two"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:79
+msgid "Full content"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:79
+msgid "Main RSS"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "New Case Study Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "New Slider Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "New Staff Member"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/sitemap.php:42
+msgid "No categories"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Nothing found in Trash"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid ""
+"PDF Upload.  If you choose not to upload the text you placed above will not "
+"appear."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Page-Left"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/includes/theme-options.php:1
+msgid "Page-Right"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:99
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/sitemap.php:122
+msgid "Permanent Link to"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:1
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Print This Page."
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/search.php:14
+msgid "Results For: "
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Search Case Study"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Search Slider"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Search Staff"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:1
+msgid "Sidebar Menu"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 1 Image Alt Text"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 1 Link"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 2 Image Alt Text"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 2 Link"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 3 Image Alt Text"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 3 Link"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 4 Image Alt Text"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 4 Link"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 5 Image Alt Text"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 5 Link"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 6 Image Alt Text"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 6 Link"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 7 Image Alt Text"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Social Icon 7 Link"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Staff Head Shot Image"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Staff Single Page Full Width Image"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Staff Title"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid ""
+"Text to appear next to download icon.  If you do not upload a file (see "
+"below) this text will not appear"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Text to appear next to print icon.  Leave blank to disable the icon."
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/template-staff.php:167
+#: business-essentials-wp/template-careers.php:89
+#: business-essentials-wp/single-staff.php:138
+#: business-essentials-wp/single-fullwidth.php:163
+#: business-essentials-wp/single.php:158 business-essentials-wp/page.php:45
+#: business-essentials-wp/taxonomy-department.php:64
+#: business-essentials-wp/page-fullwidth.php:49
+#: business-essentials-wp/single-leftsidebar.php:165
+#: business-essentials-wp/single-careers.php:95
+#: business-essentials-wp/single-rightsidebar.php:165
+#: business-essentials-wp/page-rightsidebar.php:51
+#: business-essentials-wp/single-casestudy.php:45
+#: business-essentials-wp/page-leftsidebar.php:51
+#: business-essentials-wp/search.php:61
+msgid "There are no posts to display. Try using the search."
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:1
+msgid "Top Sub Menu Navigation"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload the Social Media Image 1"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload the Social Media Image 2"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload the Social Media Image 3"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload the Social Media Image 4"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload the Social Media Image 5"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload the Social Media Image 6"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload the Social Media Image 7"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid ""
+"Upload the full width image that will display on the staff single page.  "
+"Recommended size is 980px X your choice of height."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid ""
+"Upload your employees head shot image here.  Recommended size is 310px X "
+"400px."
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload your social media image 1"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload your social media image 2"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload your social media image 3"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload your social media image 4"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload your social media image 5"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload your social media image 6"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "Upload your social media image 7"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "View Case Study Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "View Slider Item"
+msgstr ""
+
+#. Text in function
+#: business-essentials-wp/functions.php:184
+msgid "View Staff Member"
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/functions.php:166
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: business-essentials-wp/searchform.php:5
+msgid "search"
+msgstr ""
